@@ -1,0 +1,9 @@
+/data/nocs/
+__*__/
+
+/output/
+*.pyc
+
+/param/
+/models/
+
