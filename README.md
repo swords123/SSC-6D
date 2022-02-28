@@ -1,5 +1,5 @@
 # Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation (AAAI 2022)
-This is the implementation of  [Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation ]() published on AAAI 2022.
+This is the implementation of  [Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation ](https://www.aaai.org/AAAI22Papers/AAAI-3056.PengW.pdf) published on AAAI 2022.
 
 ![architecture](figures/figure1.png)
 
