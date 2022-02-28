@@ -29,7 +29,7 @@ data
 ├── results
 │   ├── mrcnn_results
 │   ├── real
-|   └── nocs_results
+│   └── nocs_results
 └── obj_models
     ├── train
     ├── val
@@ -45,7 +45,9 @@ sh ./preprocess/preprocess.sh
 
 ## Evaluation
 We provide the pretrained models for all the categories. We train the prediction network for each category separately so that the estimated poses and shapes do not interfere with each other among different classes. We use the average result from 6 repeated experiments as the final result in our paper for the preciseness of the experimental results. You can download the models for the DeepSDF decoder from [here](https://drive.google.com/file/d/17z1U9kP_Vu1yVpHb_JGedINDNVsQOTka/view?usp=sharing) and all the models of pose and shape encoder from [here](https://drive.google.com/file/d/17z1U9kP_Vu1yVpHb_JGedINDNVsQOTka/view?usp=sharing). 
+
 For reproducibility, you should **evaluate all the 36 models and then take an average**.
+
 To evaluate one category, e.g. laptop, just run the following command:
 ```
 python eval/eval_6D_ICP.py \
