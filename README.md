@@ -72,8 +72,7 @@ sh ./script/train.sh
 You can download the pretrained and trained models from [here](https://drive.google.com/file/d/17z1U9kP_Vu1yVpHb_JGedINDNVsQOTka/view?usp=sharing). 
 
 ## Note
-It should be noted that there is a small mistake in the original evaluation source code of NOCS, thus we revised it and recalculated all the metrics. The evaluation
-source code after revision is given in our released code. The revised code is [here](https://github.com/swords123/SSC-6D/blob/4896efd4777c0a36e68ee6ea985f322375c58a38/eval/utils.py#L115).
+It should be noted that there is a small mistake in the original evaluation source code of NOCS, thus we revised it and recalculated all the metrics ot Other method. The evaluation source code after revision is given in this released code. The revised code is [here](https://github.com/swords123/SSC-6D/blob/4896efd4777c0a36e68ee6ea985f322375c58a38/eval/utils.py#L115).
 
 
 ## Acknowledgment
