@@ -73,7 +73,7 @@ You can download the pretrained and trained models from [here](https://drive.goo
 
 ## Note
 It should be noted that there is a small mistake in the original evaluation source code of NOCS, thus we revised it and recalculated all the metrics. The evaluation
-source code after revision is given in our released code. The revised code is on [here](https://github.com/swords123/SSC-6D/blob/4896efd4777c0a36e68ee6ea985f322375c58a38/eval/utils.py#L115)
+source code after revision is given in our released code. The revised code is [here](https://github.com/swords123/SSC-6D/blob/4896efd4777c0a36e68ee6ea985f322375c58a38/eval/utils.py#L115)
 
 
 ## Acknowledgment
