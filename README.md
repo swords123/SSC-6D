@@ -71,6 +71,11 @@ sh ./script/train.sh
 
 You can download the pretrained and trained models from [here](https://drive.google.com/file/d/17z1U9kP_Vu1yVpHb_JGedINDNVsQOTka/view?usp=sharing). 
 
+## Note
+It should be noted that there is a small mistake in the original evaluation source code of NOCS, thus we revised it and recalculated all the metrics. The evaluation
+source code after revision is given in our released code. The revised code is on [here](https://github.com/swords123/SSC-6D/blob/4896efd4777c0a36e68ee6ea985f322375c58a38/eval/utils.py#L115)
+
+
 ## Acknowledgment
 This repo is built based on [Object-DeformNet](https://github.com/hughw19/NOCS_CVPR2019), [Densefusion](https://github.com/j96w/DenseFusion), [DeepSDF](https://github.com/facebookresearch/DeepSDF) and [DIST](https://github.com/B1ueber2y/DIST-Renderer).
 
