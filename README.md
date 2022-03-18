@@ -9,7 +9,7 @@ This is the implementation of  [Self-Supervised Category-Level 6D Object Pose Es
 * cudatookit 10.2
 * Pytorch3D 0.3.0
 
-Dependencies can also be easily installed using our [off-the-shelf environment](https://drive.google.com/file/d/17z1U9kP_Vu1yVpHb_JGedINDNVsQOTka/view?usp=sharing) based on [Anaconda](https://www.anaconda.com/).
+Dependencies can also be easily installed using our [off-the-shelf environment](https://drive.google.com/file/d/16C3rN3Py70IfeByTf6Ge5_V0-5sqUMTT/view?usp=sharing) based on [Anaconda](https://www.anaconda.com/).
 
 
 ### Data
