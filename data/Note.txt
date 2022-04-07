@@ -1,0 +1,3 @@
+Please keep the contents of the obj_models folder and merge this forlder with the obj_models folder of NOCS dataset.
+
+
