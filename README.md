@@ -81,7 +81,15 @@ This repo is built based on [Object-DeformNet](https://github.com/hughw19/NOCS_C
 ## Citation
 If you find this work useful in your research, please consider citing our paper:
 ```
-TODO
+@inproceedings{peng2022self,
+  title={Self-Supervised Category-Level 6D Object Pose Estimation with Deep Implicit Shape Representation},
+  author={Peng, Wanli and Yan, Jianhang and Wen, Hongtao and Sun, Yi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={2},
+  pages={2082--2090},
+  year={2022}
+}
 ```
 
 ## License
